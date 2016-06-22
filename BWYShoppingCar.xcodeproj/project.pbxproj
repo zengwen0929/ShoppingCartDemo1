@@ -7,14 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1802AC9C1C56205D0018E9EC /* 购物车空.png in Resources */ = {isa = PBXBuildFile; fileRef = 1802AC9B1C56205D0018E9EC /* 购物车空.png */; };
 		188377DF1C50DCC80055BA27 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 188377DE1C50DCC80055BA27 /* main.m */; };
-		188377E21C50DCC80055BA27 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 188377E11C50DCC80055BA27 /* AppDelegate.m */; };
-		188377E51C50DCC80055BA27 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 188377E41C50DCC80055BA27 /* ViewController.m */; };
 		188377E81C50DCC80055BA27 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 188377E61C50DCC80055BA27 /* Main.storyboard */; };
 		188377EA1C50DCC80055BA27 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 188377E91C50DCC80055BA27 /* Assets.xcassets */; };
 		188377ED1C50DCC80055BA27 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 188377EB1C50DCC80055BA27 /* LaunchScreen.storyboard */; };
 		188377F81C50DCC80055BA27 /* BWYShoppingCarTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 188377F71C50DCC80055BA27 /* BWYShoppingCarTests.m */; };
 		188378031C50DCC80055BA27 /* BWYShoppingCarUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 188378021C50DCC80055BA27 /* BWYShoppingCarUITests.m */; };
+		188E94BE1C7FF58700367887 /* carAddNamol.png in Resources */ = {isa = PBXBuildFile; fileRef = 188E94B71C7FF58700367887 /* carAddNamol.png */; };
+		188E94BF1C7FF58700367887 /* carAddSelect.png in Resources */ = {isa = PBXBuildFile; fileRef = 188E94B81C7FF58700367887 /* carAddSelect.png */; };
+		188E94C01C7FF58700367887 /* carSubtractNamol.png in Resources */ = {isa = PBXBuildFile; fileRef = 188E94B91C7FF58700367887 /* carSubtractNamol.png */; };
+		188E94C11C7FF58700367887 /* carSubtractSelect.png in Resources */ = {isa = PBXBuildFile; fileRef = 188E94BA1C7FF58700367887 /* carSubtractSelect.png */; };
+		188E94C21C7FF58700367887 /* order_picture_2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 188E94BB1C7FF58700367887 /* order_picture_2@2x.png */; };
+		188E94C31C7FF58700367887 /* radiobuttons_normal@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 188E94BC1C7FF58700367887 /* radiobuttons_normal@2x.png */; };
+		188E94C41C7FF58700367887 /* radiobuttons_pressed@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 188E94BD1C7FF58700367887 /* radiobuttons_pressed@2x.png */; };
+		188E94C61C7FF75B00367887 /* kiutCat.png in Resources */ = {isa = PBXBuildFile; fileRef = 188E94C51C7FF75B00367887 /* kiutCat.png */; };
+		188E94D31C80172600367887 /* BWYShoppingCarModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 188E94C91C80172600367887 /* BWYShoppingCarModel.m */; };
+		188E94D41C80172600367887 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 188E94CC1C80172600367887 /* AppDelegate.m */; };
+		188E94D51C80172600367887 /* BWYShoppingCarTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 188E94CF1C80172600367887 /* BWYShoppingCarTableViewCell.m */; };
+		188E94D61C80172600367887 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 188E94D21C80172600367887 /* ViewController.m */; };
+		188E94D91C80192900367887 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 188E94D81C80192900367887 /* DetailViewController.m */; };
+		188E94DB1C80266400367887 /* deletedImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 188E94DA1C80266400367887 /* deletedImage.png */; };
+		188E94DD1C802A8B00367887 /* deletedImage_meitu_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 188E94DC1C802A8B00367887 /* deletedImage_meitu_3.png */; };
+		AFEE423C1C87DB4800F35B1B /* zhiang.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AFEE423B1C87DB4800F35B1B /* zhiang.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,12 +50,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1802AC9B1C56205D0018E9EC /* 购物车空.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "购物车空.png"; path = "../购物车空.png"; sourceTree = "<group>"; };
 		188377DA1C50DCC80055BA27 /* BWYShoppingCar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BWYShoppingCar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		188377DE1C50DCC80055BA27 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		188377E01C50DCC80055BA27 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		188377E11C50DCC80055BA27 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		188377E31C50DCC80055BA27 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		188377E41C50DCC80055BA27 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		188377E71C50DCC80055BA27 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		188377E91C50DCC80055BA27 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		188377EC1C50DCC80055BA27 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -51,6 +63,27 @@
 		188377FE1C50DCC80055BA27 /* BWYShoppingCarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BWYShoppingCarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		188378021C50DCC80055BA27 /* BWYShoppingCarUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BWYShoppingCarUITests.m; sourceTree = "<group>"; };
 		188378041C50DCC80055BA27 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		188E94B71C7FF58700367887 /* carAddNamol.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carAddNamol.png; sourceTree = "<group>"; };
+		188E94B81C7FF58700367887 /* carAddSelect.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carAddSelect.png; sourceTree = "<group>"; };
+		188E94B91C7FF58700367887 /* carSubtractNamol.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carSubtractNamol.png; sourceTree = "<group>"; };
+		188E94BA1C7FF58700367887 /* carSubtractSelect.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = carSubtractSelect.png; sourceTree = "<group>"; };
+		188E94BB1C7FF58700367887 /* order_picture_2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "order_picture_2@2x.png"; sourceTree = "<group>"; };
+		188E94BC1C7FF58700367887 /* radiobuttons_normal@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "radiobuttons_normal@2x.png"; sourceTree = "<group>"; };
+		188E94BD1C7FF58700367887 /* radiobuttons_pressed@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "radiobuttons_pressed@2x.png"; sourceTree = "<group>"; };
+		188E94C51C7FF75B00367887 /* kiutCat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kiutCat.png; sourceTree = "<group>"; };
+		188E94C81C80172600367887 /* BWYShoppingCarModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BWYShoppingCarModel.h; sourceTree = "<group>"; };
+		188E94C91C80172600367887 /* BWYShoppingCarModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BWYShoppingCarModel.m; sourceTree = "<group>"; };
+		188E94CB1C80172600367887 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		188E94CC1C80172600367887 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		188E94CE1C80172600367887 /* BWYShoppingCarTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BWYShoppingCarTableViewCell.h; sourceTree = "<group>"; };
+		188E94CF1C80172600367887 /* BWYShoppingCarTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BWYShoppingCarTableViewCell.m; sourceTree = "<group>"; };
+		188E94D11C80172600367887 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		188E94D21C80172600367887 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		188E94D71C80192900367887 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		188E94D81C80192900367887 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		188E94DA1C80266400367887 /* deletedImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = deletedImage.png; sourceTree = "<group>"; };
+		188E94DC1C802A8B00367887 /* deletedImage_meitu_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = deletedImage_meitu_3.png; sourceTree = "<group>"; };
+		AFEE423B1C87DB4800F35B1B /* zhiang.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = zhiang.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,10 +134,11 @@
 		188377DC1C50DCC80055BA27 /* BWYShoppingCar */ = {
 			isa = PBXGroup;
 			children = (
-				188377E01C50DCC80055BA27 /* AppDelegate.h */,
-				188377E11C50DCC80055BA27 /* AppDelegate.m */,
-				188377E31C50DCC80055BA27 /* ViewController.h */,
-				188377E41C50DCC80055BA27 /* ViewController.m */,
+				188E94C71C80172600367887 /* Model */,
+				188E94CA1C80172600367887 /* Other */,
+				188E94CD1C80172600367887 /* View */,
+				188E94D01C80172600367887 /* ViewController */,
+				188E94B61C7FF58700367887 /* images */,
 				188377E61C50DCC80055BA27 /* Main.storyboard */,
 				188377E91C50DCC80055BA27 /* Assets.xcassets */,
 				188377EB1C50DCC80055BA27 /* LaunchScreen.storyboard */,
@@ -138,6 +172,63 @@
 				188378041C50DCC80055BA27 /* Info.plist */,
 			);
 			path = BWYShoppingCarUITests;
+			sourceTree = "<group>";
+		};
+		188E94B61C7FF58700367887 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				AFEE423B1C87DB4800F35B1B /* zhiang.jpg */,
+				188E94DC1C802A8B00367887 /* deletedImage_meitu_3.png */,
+				188E94DA1C80266400367887 /* deletedImage.png */,
+				188E94C51C7FF75B00367887 /* kiutCat.png */,
+				1802AC9B1C56205D0018E9EC /* 购物车空.png */,
+				188E94B71C7FF58700367887 /* carAddNamol.png */,
+				188E94B81C7FF58700367887 /* carAddSelect.png */,
+				188E94B91C7FF58700367887 /* carSubtractNamol.png */,
+				188E94BA1C7FF58700367887 /* carSubtractSelect.png */,
+				188E94BB1C7FF58700367887 /* order_picture_2@2x.png */,
+				188E94BC1C7FF58700367887 /* radiobuttons_normal@2x.png */,
+				188E94BD1C7FF58700367887 /* radiobuttons_pressed@2x.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		188E94C71C80172600367887 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				188E94C81C80172600367887 /* BWYShoppingCarModel.h */,
+				188E94C91C80172600367887 /* BWYShoppingCarModel.m */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		188E94CA1C80172600367887 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				188E94CB1C80172600367887 /* AppDelegate.h */,
+				188E94CC1C80172600367887 /* AppDelegate.m */,
+			);
+			path = Other;
+			sourceTree = "<group>";
+		};
+		188E94CD1C80172600367887 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				188E94CE1C80172600367887 /* BWYShoppingCarTableViewCell.h */,
+				188E94CF1C80172600367887 /* BWYShoppingCarTableViewCell.m */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		188E94D01C80172600367887 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				188E94D11C80172600367887 /* ViewController.h */,
+				188E94D21C80172600367887 /* ViewController.m */,
+				188E94D71C80192900367887 /* DetailViewController.h */,
+				188E94D81C80192900367887 /* DetailViewController.m */,
+			);
+			path = ViewController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -207,6 +298,7 @@
 				TargetAttributes = {
 					188377D91C50DCC80055BA27 = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = EA5FU5832Z;
 					};
 					188377F21C50DCC80055BA27 = {
 						CreatedOnToolsVersion = 7.2;
@@ -243,9 +335,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				188E94C01C7FF58700367887 /* carSubtractNamol.png in Resources */,
+				1802AC9C1C56205D0018E9EC /* 购物车空.png in Resources */,
 				188377ED1C50DCC80055BA27 /* LaunchScreen.storyboard in Resources */,
+				AFEE423C1C87DB4800F35B1B /* zhiang.jpg in Resources */,
+				188E94BE1C7FF58700367887 /* carAddNamol.png in Resources */,
 				188377EA1C50DCC80055BA27 /* Assets.xcassets in Resources */,
+				188E94C11C7FF58700367887 /* carSubtractSelect.png in Resources */,
+				188E94C21C7FF58700367887 /* order_picture_2@2x.png in Resources */,
+				188E94C61C7FF75B00367887 /* kiutCat.png in Resources */,
+				188E94C31C7FF58700367887 /* radiobuttons_normal@2x.png in Resources */,
+				188E94C41C7FF58700367887 /* radiobuttons_pressed@2x.png in Resources */,
 				188377E81C50DCC80055BA27 /* Main.storyboard in Resources */,
+				188E94BF1C7FF58700367887 /* carAddSelect.png in Resources */,
+				188E94DD1C802A8B00367887 /* deletedImage_meitu_3.png in Resources */,
+				188E94DB1C80266400367887 /* deletedImage.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,9 +374,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				188377E51C50DCC80055BA27 /* ViewController.m in Sources */,
-				188377E21C50DCC80055BA27 /* AppDelegate.m in Sources */,
 				188377DF1C50DCC80055BA27 /* main.m in Sources */,
+				188E94D31C80172600367887 /* BWYShoppingCarModel.m in Sources */,
+				188E94D41C80172600367887 /* AppDelegate.m in Sources */,
+				188E94D51C80172600367887 /* BWYShoppingCarTableViewCell.m in Sources */,
+				188E94D61C80172600367887 /* ViewController.m in Sources */,
+				188E94D91C80192900367887 /* DetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -411,9 +518,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = BWYShoppingCar/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.BWY.BWYShoppingCar;
+				PRODUCT_BUNDLE_IDENTIFIER = com.BWY.BWYShoppingCar1230;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -422,9 +531,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = BWYShoppingCar/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.BWY.BWYShoppingCar;
+				PRODUCT_BUNDLE_IDENTIFIER = com.BWY.BWYShoppingCar1230;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -496,6 +607,7 @@
 				188378091C50DCC80055BA27 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1883780A1C50DCC80055BA27 /* Build configuration list for PBXNativeTarget "BWYShoppingCarTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +616,7 @@
 				1883780C1C50DCC80055BA27 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1883780D1C50DCC80055BA27 /* Build configuration list for PBXNativeTarget "BWYShoppingCarUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +625,7 @@
 				1883780F1C50DCC80055BA27 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

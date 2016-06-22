@@ -2,8 +2,8 @@
 //  AppDelegate.h
 //  BWYShoppingCar
 //
-//  Created by apple on 16/1/21.
-//  Copyright © 2016年 毕炜勇. All rights reserved.
+//  Created by zhiangkeji on 16/3/2.
+//  Copyright © 2016年 zhiangkeji. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
